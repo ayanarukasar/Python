@@ -1,0 +1,15 @@
+Lets assume you're working on a project
+
+-it might be simple
+-complex
+
+Now, when you'll having a complex project what will you are doing it
+-break that project inti smaller task
+
+exam- you want to perform a payment operation
+-in that payment youll having multiple statements, now all the statements you can keep it together,so that you can reuse later.
+
+exam- there are multiple places you are doing payments so youll be using same set of lines in multiple places. so you can put them together, it should reusable that where we create a func.
+
+#two types of func
+#will execute a task or will return something
